@@ -1,0 +1,156 @@
+history
+history > moving_around.txt
+history >> moving_around.txt
+subl moving.around.txt
+ll
+less moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+pwd
+cd
+history | sort
+man man
+man less
+ls ..
+ls . 
+ls
+..
+cd ../..
+cd ..
+cd iTunes Library Genius.itdb sentinel
+cd iTunes
+cd Music
+Sublime Text 2 > Preferences > Settings - User
+brew info fish
+brew in
+la
+git checkout master
+git branch
+git checkout -b note
+git branch notes
+ls -lt
+ls-lt
+curl -fsSL http://git.io/beJs | ruby
+homebrew -v
+homebrew --version
+homebrew --
+brew update
+ls -G
+uname
+brew doctor
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+set -gx EDITOR 'subl -w'
+# Sublime Text
+echo $EDITOR
+xcodebuild
+sudo brew doctor
+ld -G
+fish_update_completions
+whereis curl
+clear
+agree
+sudo brew update
+unme
+fish_up
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+  $(this).effect
+brew install fish
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ brew edit wget
+open codefellows
+cd Desktop
+cd /Desktop
+git status
+git config --list
+git add *.c
+add *.c
+git init
+git config user.name
+git config --global color.ui true
+git config --global user.email "karen.wsywong@gmail.com"
+git config --global user.name "Karen Wong"
+--global user.name "Karen Wong"
+open test.html
+cd codefellows/
+cd Desktop/
+ls -l
+ls-1
+rm Test.java 
+vim Test.java 
+vim ~/.vimrc
+vim ~/.profile 
+vim Test.java
+vim ~/.profile
+cp example1 barney
+touch example1
+rmdir linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo/bar
+cd linuxtutorialwork/
+cd 
+cd . .
+cd Desktop/linuxtutorialwork/foo
+cd linuxtutorialwork/foo/bar
+mkdir -p linuxtutorialwork/foo/bar
+mkdir linuxtutorialwork
+open test.js
+open Civil Procedure.docx
+cp Civil Procedure.docx
+man mkdir
+man ls
+cd..
+cd ~/Documents
+Desktop
+ls -l ~
+ls -l~
+open.test.html
+cd codefellows
+codefellows
+cd Documents/
+/Users/karenwong ls
+find / -name "*InstallMac*"
+find / -name "*installmac*"
+find / -name "*Genieo*"
+find / -name "*genieo*"
+sudo -s
+sudo find / -name "*InstallMac*"
+sudo find / -name "*installmac*"
+sudo find / -name "*Genieo*"
+sudo rm -rf /Users/karenwong/Library/Preferences/com.genieoinnovation.macextension.plist
+sudo rm -rf /Users/karenwong/Library/Caches/com.genieoinnovation.Installer
+sudo find / -name "*genieo*"
+find / genieo
+man find
+cd /
+ls /Library/Frameworks | grep Install
+ls /Library/Frameworks | grep Genie
+sudo rm -rf /Library/Frameworks/GenieoExtra.framework
+ls /Library/Frameworks | grep genie
+ls /usr/lib | less
+ls /usr/lib | grep libimck
+ls /usr/lib | grep libgenkit
+ls /Library/PrivilegedHelperTools | grep genieo
+sudo rm -rf /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client 
+ls /Library/LaunchDaemons | grep genieo
+sudo rm -rf /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist 
+rm -rf /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist 
+ls ~/Library/LaunchDaemons | grep genieo
+ls ~/Library/LaunchAgents | grep genieo
+ls /Applications | grep InstallMac
+ls /Applications | grep Genieo
+ls /Library/LaunchAgents | grep genieo
+sudo rm -rf  /Library/LaunchAgents/com.genieoinnovation.macextension.plist 
+rm -rf  /Library/LaunchAgents/com.genieoinnovation.macextension.plist 
+rm -rf  ~/Library/LaunchAgents/com.genieo.completer.update.plist 
+rm -rf  ~/Library/LaunchAgents/com.genieo.completer.ltvbit.plist 
+rm -rf  ~/Library/LaunchAgents/com.genieo.completer.download.plist 
+rm -rf ~/Library/Application\ Support/com.genieoinnovation.Installer
+ls ~/Library/Application\ Support/ | less
+ls ~/Library | less
+ls /Applications
+rm -rf /Applications/InstallMac
+ls /private/etc  |  grep launchd.conf
+ls /private/etc  |  grep launchd
+ls /private/etc  |  less
+ls /private/etc
