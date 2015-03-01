@@ -1,5 +1,24 @@
+# add git remote (repository?)
+git remote add origin https://github.com/kaka0525/uge_workshop.git
+
+git push -u origin master
+
+# let you know how many remotes you have
+git remote
+
+#remote is a nick name for url
+
+# solo project -> create a new branch based on what it is  on master because it's the stable part of the project ->git branch <name> -> git checkout<name> -> then do git add-> git commit -> go back to check out master -> then merge
+
+# head always point to the current branch that is on # check out the master branch
+ git checkout master
+git branch # tells us which one is the active label
+git branch # whenever we create a new branch, it points to the particular commit.
+You can have multiple labels pointing to the same commit, a branch is just a label
+git ll
+git la
 # .git is hidden while the repository is visible
-git log // shows you the circle
+git log // shows you the circle; the history
 git status #shows you the box, what's in the staging area
 git commit -m 'add unix notes'
 git add // add file
@@ -11,6 +30,7 @@ subl moving.around.txt
 # list the current working directory in long format
 ll
 pwd
+# move directory
 cd
 # open the file in the less pager
 less moving_around.txt
@@ -25,90 +45,5 @@ ls
 ..
 cd ../..
 cd ..
-cd iTunes Library Genius.itdb sentinel
-cd iTunes
-cd Music
-Sublime Text 2 > Preferences > Settings - User
-brew info fish
-brew in
-la
-git checkout master
-git branch
-git checkout -b note
-git branch notes
-ls -lt
-ls-lt
-curl -fsSL http://git.io/beJs | ruby
 
-echo $EDITOR
-xcodebuild
-sudo brew doctor
-ld -G
-fish_update_completions
-whereis curl
-clear
-agree
-sudo brew update
-unme
-fish_up
-chsh -s /usr/local/bin/fish
-echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
-  $(this).effect
-brew install fish
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
- brew edit wget
-open codefellows
-cd Desktop
-cd /Desktop
-git status
-git config --list
-git add *.c
-add *.c
-git init
-git config user.name
-git config --global color.ui true
-git config --global user.email "karen.wsywong@gmail.com"
-git config --global user.name "Karen Wong"
---global user.name "Karen Wong"
-open test.html
-cd codefellows/
-cd Desktop/
-ls -l
-ls-1
-rm Test.java
-vim Test.java
-vim ~/.vimrc
-vim ~/.profile
-vim Test.java
-vim ~/.profile
-cp example1 barney
-touch example1
-rmdir linuxtutorialwork/foo
-rmdir linuxtutorialwork/foo/bar
-cd linuxtutorialwork/
-cd
-cd . .
-cd Desktop/linuxtutorialwork/foo
-cd linuxtutorialwork/foo/bar
-mkdir -p linuxtutorialwork/foo/bar
-mkdir linuxtutorialwork
-open test.js
-open Civil Procedure.docx
-cp Civil Procedure.docx
-man mkdir
-man ls
-cd..
-cd ~/Documents
-Desktop
-ls -l ~
-ls -l~
-open.test.html
-cd codefellows
-codefellows
-cd Documents/
-/Users/karenwong ls
-
-cd /
-
-ls /private/etc  |  less
-ls /private/etc
+Su
